@@ -1,6 +1,6 @@
 # HW_Neural_Machine_Translation
 
-Project in DADS7203 Natural Language Processing Class
+Project in DADS7203 Natural Language Processing
 
 Implement the below model
 
