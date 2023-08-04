@@ -1,4 +1,4 @@
-# HW_Neural_Machine_Translation
+# Neural_Machine_Translation
 
 Project in DADS7203 Natural Language Processing
 
